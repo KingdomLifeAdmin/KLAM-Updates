@@ -1,5 +1,5 @@
 {
-  "version": "3.6.3",
-  "installer_url": "https://github.com/KingdomLifeAdmin/KLAM-Updates/releases/download/v3.6.3/KLAM_Customer_Setup_3.6.3.exe",
+  "version": "3.6.4",
+  "installer_url": "https://github.com/KingdomLifeAdmin/KLAM-Updates/releases/download/v3.6.4/KLAM_Customer_Setup_3.6.3.exe",
   "release_notes": "Dashboard refresh, licensing improvements, payroll branding, Dropbox backup fixes."
 }
