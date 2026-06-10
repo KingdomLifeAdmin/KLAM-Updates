@@ -1,15 +1,13 @@
 {
-  "version": "3.6.4",
-  "release_date": "2026-06-09",
-  "installer_url": "https://github.com/KingdomLifeAdmin/KLAM-Updates/releases/download/v3.6.4/KLAM_Setup_v3.6.4.exe",
-  "release_notes_url": "https://github.com/KingdomLifeAdmin/KLAM-Updates/releases/tag/v3.6.4",
-  "release_notes": "KLAM v3.6.4 adds digitally signed licenses, license verification, recovery mode, and About dialog contact display fixes.",
-  "notes": [
-    "Digital license signing",
-    "License verification engine",
-    "License Recovery Centre",
-    "License-only AppData protection",
-    "Improved About dialog church contact display",
-    "Vendor license signing workflow"
+  "version": "3.6.5",
+  "download_url": "https://github.com/YOUR_REPO/releases/download/v3.6.5/KLAM_Setup_v3.6.5.exe",
+  "release_notes": [
+    "License Security & Recovery System",
+    "Digitally Signed License Validation",
+    "License Recovery Mode",
+    "Dashboard Cloud Backup License Enforcement",
+    "Member Delete Database Fix",
+    "About Dialog Branding Fixes",
+    "Improved Update Installer Workflow"
   ]
 }
