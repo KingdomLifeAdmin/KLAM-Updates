@@ -1,13 +1,6 @@
 {
   "version": "3.6.5",
-  "download_url": "https://github.com/YOUR_REPO/releases/download/v3.6.5/KLAM_Setup_v3.6.5.exe",
-  "release_notes": [
-    "License Security & Recovery System",
-    "Digitally Signed License Validation",
-    "License Recovery Mode",
-    "Dashboard Cloud Backup License Enforcement",
-    "Member Delete Database Fix",
-    "About Dialog Branding Fixes",
-    "Improved Update Installer Workflow"
-  ]
+  "installer_url": "https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/releases/download/v3.6.5/KLAM_Setup_v3.6.5.exe",
+  "release_notes": "License Security & Recovery System\nDigitally Signed License Validation\nLicense Recovery Mode\nDashboard Cloud Backup License Enforcement\nMember Delete Database Fix\nAbout Dialog Branding Fixes\nImproved Update Installer Workflow"
+}
 }
