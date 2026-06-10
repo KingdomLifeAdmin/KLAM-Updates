@@ -1,6 +1,6 @@
 {
   "version": "3.6.5",
-  "installer_url": "https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/releases/download/v3.6.5/KLAM_Setup_v3.6.5.exe",
+  "installer_url": "https://github.com/KingdomLifeAdmin/KLAM-Updates/releases/download/v3.6.5/KLAM_Setup_v3.6.5.exe",
   "release_notes": "License Security & Recovery System\nDigitally Signed License Validation\nLicense Recovery Mode\nDashboard Cloud Backup License Enforcement\nMember Delete Database Fix\nAbout Dialog Branding Fixes\nImproved Update Installer Workflow"
 }
 }
