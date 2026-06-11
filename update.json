@@ -1,5 +1,5 @@
 {
-  "version": "3.6.6",
-  "installer_url": "https://github.com/KingdomLifeAdmin/KLAM-Updates/releases/download/v3.6.6/KLAM_Setup_v3.6.6.exe",
-  "release_notes": "SO1 alerts now trigger only if payroll was run for the previous month\nSO2 alerts now trigger only if payroll exists for the previous year\nPastor/Credential Holder tithe alerts now trigger only if payroll produced HQ 5% tithe\nChurch tithe alerts now trigger only if Finance/Giving tithe exists\nPastor/Church tithe form now has a Mark Submitted option to stop reminders\nEmpty/reset KLAM should no longer show SO1/SO2 compliance alerts"
+  "version": "3.7.0",
+  "installer_url": "https://github.com/KingdomLifeAdmin/KLAM-Updates/releases/download/v3.7.0/KLAM_Setup_v3.7.0.exe",
+  "release_notes": "duplicate detection before import\nskip/update/merge/import-all options\nsafer spouse linking after import\ndate cleanup to YYYY-MM-DD\nduplicate warning when manually saving a member\nimport summary report."
 }
