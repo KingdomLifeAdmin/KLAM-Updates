@@ -1,5 +1,5 @@
 {
-  "version": "3.7.0",
-  "installer_url": "https://github.com/KingdomLifeAdmin/KLAM-Updates/releases/download/v3.7.0/KLAM_Setup_v3.7.0.exe",
-  "release_notes": "duplicate detection before import\nskip/update/merge/import-all options\nsafer spouse linking after import\ndate cleanup to YYYY-MM-DD\nduplicate warning when manually saving a member\nimport summary report."
+  "version": "3.7.1",
+  "installer_url": "https://github.com/KingdomLifeAdmin/KLAM-Updates/releases/download/v3.7.1/KLAM_Setup_v3.7.1.exe",
+  "release_notes": "KLAM 3.7.1 Production Release\nCloud Transfer & Consolidation Centre for controlled transfer-package exchange\nchurch-specific Cloud Church ID and role-based routing\npackage publishing, scanning, staging and controlled review workflow\nCloud Transfer & Consolidation moved to the Admin menu\nimproved DPA-protected member viewing and data masking\nimproved background notification behavior\nHelp & Training Centre and operating manual improvements\nadditional stability, navigation and administrative refinements."
 }
