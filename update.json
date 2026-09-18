@@ -1,5 +1,5 @@
 {
-  "version": "3.7.1",
-  "installer_url": "https://github.com/KingdomLifeAdmin/KLAM-Updates/releases/download/v3.7.1/KLAM_Setup_v3.7.1.exe",
-  "release_notes": "KLAM 3.7.1 Production Release\nCloud Transfer & Consolidation Centre for controlled transfer-package exchange\nchurch-specific Cloud Church ID and role-based routing\npackage publishing, scanning, staging and controlled review workflow\nCloud Transfer & Consolidation moved to the Admin menu\nimproved DPA-protected member viewing and data masking\nimproved background notification behavior\nHelp & Training Centre and operating manual improvements\nadditional stability, navigation and administrative refinements."
+  "version": "3.7.3",
+  "installer_url": "https://github.com/KingdomLifeAdmin/KLAM-Updates/releases/download/v3.7.3/KLAM_Setup_v3.7.3.exe",
+  "release_notes": "KLAM 3.7.3 Production Release\nMulti-category Expense entry and batch posting\nIndividual Vendor/Payee and Note for each expense category\nAlphabetical Income and Expense category ordering\nImproved Expense entry layout and Note visibility\nControlled Opening Balance Reverse/Reset workflow\nOpening Balance reversals retain full journal audit history\nReversed Opening Balances can be reopened and correctly finalized again\nAdditional Finance workflow and stability refinements."
 }
