@@ -1,7 +1,5 @@
 {
-  "version": "3.7.4",
-  "installer_url": "https://github.com/KingdomLifeAdmin/KLAM-Updates/releases/download/v3.7.4/KLAM_Setup_v3.7.4.exe",
-  "installer_sha256": "efcb5898e51bfc7ada4a1f628ac9323ecabf435bdc693dbb2acfb2c8af4c5135",
-  "release_notes": "KLAM 3.7.4 production release rebuilt, installed and functionally tested successfully. Finance Expense Entry was enhanced to support multi-category batch entry while maintaining separate Vendor/Payee and Note information for each expense transaction. Income and Expense categories now display in alphabetical order for easier entry and navigation. Expense entry layout and Note visibility were refined and verified. Controlled Opening Balance Reverse/Reset functionality was tested successfully, including creation of the reversing journal, preservation of the original journal audit history, reset of opening amounts to 0.00, and reopening of USD Opening Balances for correct entry. Existing church data and AppData remained intact after installation. Core modules, navigation, reports, backup, transfer/merge centres, Help & Training, DPA masking and background notifier behavior were verified. KLAM 3.7.4 is approved as the new production baseline.",
-  "sig": "T9DHOA1ntjAJeLaNDi2OJsJTuEDKsayt9qiSiRNOgLMPPJAyJBpmlzZhBmwz+FbNIMpCJpPdHyaJoEonPHqhBQ=="
+  "version": "3.7.5",
+  "installer_url": "https://github.com/KingdomLifeAdmin/KLAM-Updates/releases/download/v3.7.5/KLAM_Setup_v3.7.5.exe",
+  "release_notes": "KLAM 3.7.5 Production Release\nCorrected Church 10% Tithe calculation to use only JMD Finance/Giving TITHES for the selected month; USD tithe transactions are excluded.\nCorrected Finance Income and Expense Edit Selected functionality so changes to existing transactions save properly without deleting and re-entering them.\nEdited transaction amounts now immediately update the Finance registers and financial totals.\nKLAM 3.7.5 completed release certification and is the official tested production baseline."
 }
